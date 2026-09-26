@@ -1,0 +1,14 @@
+{
+  "name": "Eduvo",
+  "status": "Open Beta",
+  "type": "SaaS / Education",
+  "creator": {
+    "name": "Trifa Rafael",
+    "website": "https://trifarafael.com",
+    "github": "https://github.com/RafaelOTC"
+  },
+  "product_url": "https://eduvo.ro",
+  "portfolio_url": "https://trifarafael.com/projects/eduvo-platforma-meditatii",
+  "source_code_public": false,
+  "summary": "All-in-one platform for tutoring teachers with scheduling, student management, public profiles, messaging, online lessons and the LUNA AI assistant."
+}
